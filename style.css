@@ -194,7 +194,8 @@ header a {
 }
 
 .content__img img {
-  width: 340px;
+  width: 90%;
+  height: 90%;
   margin-right: 50px;
 }
 
@@ -321,7 +322,8 @@ header a {
     max-width: 100%;
   }
   .content__img img {
-    width: 200px;
+    width: 70%;
+    height: 70%;
   }
   .circle {
     -webkit-clip-path: circle(45% at center bottom);
